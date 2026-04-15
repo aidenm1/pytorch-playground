@@ -1,0 +1,9 @@
+torch>=2.2
+datasets>=2.18
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+numpy>=1.26
+jupyter>=1.0
+pytest>=8.0
+

@@ -1,0 +1,12 @@
+.venv/
+.DS_Store
+*.egg-info/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/imdb/
+results/*.png
+results/*.json
+results/*.pt
+results/*.txt
+!results/.gitkeep
